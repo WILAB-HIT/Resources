@@ -6,4 +6,3 @@ Resouces of Chinese Electronic Medical Records
 	Annotation Scheme for Named Entities and Entity Relations on Chinese Electronic Medical Records.
 2. data_sample.rar
 	10 discharge, 10 progress.
-
