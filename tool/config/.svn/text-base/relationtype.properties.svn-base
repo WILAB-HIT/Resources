@@ -1,0 +1,16 @@
+#
+Tr2D=<<<治疗和疾病之间的关系>>>,FFFFFF,0
+TrID=治疗改善了疾病,B0C4DE,1
+TrWD=治疗恶化了疾病,F0FFFF,1
+TrCD=治疗导致了疾病,EE82EE,1
+TrAD=治疗施加于疾病,FAEBD7,1
+TrNAD=因为疾病而没有采取的治疗,D8BFD8,1
+#
+Te2D=<<<检查和疾病之间的关系>>>,FFFFFF,0
+TeRD=检查证实了疾病,87CEEB,1
+TeCD=为了证实疾病而采取检查,AFEEEE,1
+#
+D2S=<<<疾病和症状之间的关系>>>,FFFFFF,0
+DIS=疾病导致了症状,DCDCDC,1
+DID=疾病导致了另一个疾病,00CED1,1
+SWS=症状伴随了另一个症状,5F9EA0,1
