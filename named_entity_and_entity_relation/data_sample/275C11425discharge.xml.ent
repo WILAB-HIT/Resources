@@ -1,0 +1,41 @@
+C=肛周感染 P=131:135 T=disease A=possible
+C=肛周感染 P=159:163 T=disease A=possible
+C=肛周感染 P=187:191 T=disease A=present
+C=慢性胆囊炎 P=193:198 T=disease A=present
+C=结肠息肉 P=200:204 T=disease A=present
+C=I型 P=204:206 T=diseasetype
+C=腔隙性脑梗 P=208:213 T=disease A=present
+C=肛周不适 P=239:243 T=complaintsymptom A=present
+C=胃肠型 P=259:262 T=testresult A=absent
+C=蠕动波 P=263:266 T=testresult A=absent
+C=腹壁静脉曲张 P=275:281 T=testresult A=absent
+C=手术疤痕 P=288:292 T=testresult A=absent
+C=振水声 P=295:298 T=testresult A=absent
+C=压痛 P=304:306 T=testresult A=absent
+C=反跳痛 P=308:311 T=testresult A=absent
+C=腹部包块 P=312:316 T=testresult A=absent
+C=肌紧张 P=322:325 T=testresult A=absent
+C=压痛 P=341:343 T=testresult A=absent
+C=MUrDhy征 P=346:353 T=testresult A=absent
+C=肝区叩痛 P=365:369 T=testresult A=absent
+C=移动性浊音 P=372:377 T=testresult A=absent
+C=气过水声 P=383:387 T=testresult A=absent
+C=肠鸣音 P=388:391 T=test
+C=肛诊 P=398:400 T=test
+C=肛周皮肤局部略红肿 P=405:414 T=testresult A=present
+C=触痛 P=415:417 T=testresult A=absent
+C=指诊 P=421:423 T=test
+C=明显异常 P=425:429 T=testresult A=absent
+C=对症 P=476:478 T=treatment A=present
+C=支持治疗 P=480:484 T=treatment A=present
+C=胃肠型 P=536:539 T=testresult A=absent
+C=蠕动波 P=540:543 T=testresult A=absent
+C=压痛 P=558:560 T=testresult A=absent
+C=反跳痛 P=562:565 T=testresult A=absent
+C=肌紧张 P=566:569 T=testresult A=absent
+C=MUrDhy征 P=570:577 T=testresult A=absent
+C=移动性浊音 P=581:586 T=testresult A=absent
+C=肠鸣音 P=590:593 T=test
+C=明显不适 P=604:608 T=testresult A=absent
+C=低盐低脂饮食 P=676:682 T=treatment A=present
+C=血糖 P=691:693 T=test

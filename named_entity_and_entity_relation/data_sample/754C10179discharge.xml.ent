@@ -1,0 +1,49 @@
+C=前列腺癌术后 P=132:138 T=disease A=present
+C=前列腺癌 P=162:166 T=disease A=possible
+C=高血压病 P=168:172 T=disease A=possible
+C=脑动脉硬化 P=174:179 T=disease A=possible
+C=冠心病 P=181:184 T=disease A=possible
+C=高血压 P=186:189 T=disease A=possible
+C=糖尿病 P=191:194 T=disease A=possible
+C=腔隙性脑梗死 P=196:202 T=disease A=possible
+C=前列腺癌 P=226:230 T=disease A=present
+C=高血压病2级 P=232:238 T=disease A=present
+C=极高危组 P=239:243 T=diseasetype
+C=冠心病 P=245:248 T=disease A=present
+C=2型糖尿病 P=250:255 T=disease A=present
+C=腔隙性脑梗死 P=257:263 T=disease A=present
+C=高脂血症 P=265:269 T=disease A=present
+C=胆囊结石 P=270:274 T=disease A=present
+C=慢性胆囊炎 P=276:281 T=disease A=present
+C=排尿困难 P=313:317 T=complaintsymptom A=present
+C=尿频 P=318:320 T=complaintsymptom A=present
+C=尿急 P=321:323 T=complaintsymptom A=present
+C=体温 P=331:333 T=test
+C=脉搏 P=337:339 T=test
+C=呼吸 P=346:348 T=test
+C=血压 P=355:357 T=test
+C=肿大 P=383:385 T=testresult A=absent
+C=干湿罗音 P=404:408 T=testresult A=absent
+C=心率 P=409:411 T=test
+C=病理性杂音 P=428:433 T=testresult A=absent
+C=压痛 P=447:449 T=testresult A=absent
+C=反跳痛 P=450:453 T=testresult A=absent
+C=肌紧张 P=454:457 T=testresult A=absent
+C=畸形 P=469:471 T=testresult A=absent
+C=浮肿 P=476:478 T=testresult A=absent
+C=病理反射 P=486:490 T=testresult A=absent
+C=降血脂 P=517:520 T=treatment A=present
+C=生物抗肿瘤治疗 P=535:542 T=treatment A=present
+C=营养脑细胞 P=549:554 T=treatment A=present
+C=对症治疗 P=555:559 T=treatment A=present
+C=排尿困难 P=583:587 T=complaintsymptom A=present
+C=尿频 P=588:590 T=complaintsymptom A=present
+C=尿急 P=591:593 T=complaintsymptom A=present
+C=血压 P=599:601 T=test
+C=肿大 P=627:629 T=testresult A=absent
+C=干湿罗音 P=643:647 T=testresult A=absent
+C=心率 P=648:650 T=test
+C=病理性杂音 P=666:671 T=testresult A=absent
+C=压痛 P=676:678 T=testresult A=absent
+C=畸形 P=684:686 T=testresult A=absent
+C=浮肿 P=691:693 T=testresult A=absent

@@ -1,0 +1,46 @@
+C=高血压 P=72:75 T=disease A=absent
+C=糖尿病史 P=77:81 T=disease A=absent
+C=肝炎 P=85:87 T=disease A=absent
+C=结核病史 P=89:93 T=disease A=absent
+C=多发骨髓瘤 P=109:114 T=disease A=possible
+C=血沉 P=116:118 T=test
+C=β2-MG P=129:134 T=test
+C=尿轻链 P=140:143 T=test
+C=L轻链 P=145:148 T=test
+C=K轻链 P=158:161 T=test
+C=血轻链 P=172:175 T=test
+C=L轻链 P=177:180 T=test
+C=K轻链 P=191:194 T=test
+C=血浆IgG P=206:211 T=test
+C=IgA P=220:223 T=test
+C=IgM P=232:235 T=test
+C=骨髓象 P=245:248 T=test
+C=瘤细胞6% P=250:255 T=testresult A=present
+C=VAD方案 P=260:265 T=treatment A=history
+C=化疗副反应 P=271:276 T=complaintsymptom A=present
+C=胃区疼痛 P=298:302 T=complaintsymptom A=present
+C=背部疼痛 P=304:308 T=complaintsymptom A=present
+C=血沉 P=312:314 T=test
+C=血浆IgG P=325:330 T=test
+C=血轻链 P=340:343 T=test
+C=L轻链 P=345:348 T=test
+C=K轻链 P=359:362 T=test
+C=IgA P=373:376 T=test
+C=IgM P=385:388 T=test
+C=骨髓象 P=399:402 T=test
+C=体温 P=429:431 T=test
+C=脉搏 P=441:443 T=test
+C=呼吸 P=451:453 T=test
+C=BP P=461:463 T=test
+C=颈静脉怒张 P=504:509 T=testresult A=absent
+C=干湿啰音 P=522:526 T=testresult A=absent
+C=心率 P=528:530 T=test
+C=病理性杂音 P=548:553 T=testresult A=absent
+C=手术疤痕 P=569:573 T=testresult A=absent
+C=压痛 P=578:580 T=testresult A=absent
+C=反跳痛 P=581:584 T=testresult A=absent
+C=肌紧张 P=585:588 T=testresult A=absent
+C=移动性浊音 P=599:604 T=testresult A=absent
+C=浮肿 P=610:612 T=testresult A=absent
+C=多发性骨髓瘤 P=651:657 T=disease A=possible
+C=对症治疗 P=1009:1013 T=treatment A=present

@@ -1,0 +1,16 @@
+E={高血压【72-75】disease;糖尿病史【77-81】disease;肝炎【84-86】disease;结核病史【88-92】disease;}
+E={抗炎治疗【128-132】treatment;}||R=TrWS||E={咳嗽【113-115】complaintsymptom;咳少量白色粘痰【117-124】complaintsymptom;}
+E={抗炎【157-159】treatment;中药治疗【161-165】treatment;}||R=TrWS||E={咳嗽【113-115】complaintsymptom;咳少量白色粘痰【117-124】complaintsymptom;}
+E={支气管镜检查【186-192】test;}||R=TeRD||E={小细胞肺癌【195-200】disease;}
+E={小细胞肺癌【195-200】disease;}||R=DIS||E={咳嗽【113-115】complaintsymptom;咳少量白色粘痰【117-124】complaintsymptom;}
+E={小细胞肺癌【243-248】disease;}||R=DIS||E={发热【261-263】complaintsymptom;头晕【266-268】complaintsymptom;乏力【270-272】complaintsymptom;恶心【275-277】complaintsymptom;呕吐【279-281】complaintsymptom;腹痛【284-286】complaintsymptom;腹泻【288-290】complaintsymptom;}
+E={体温【315-317】test;脉搏【328-330】test;呼吸【338-340】test;BP【348-350】test;}
+E={颈静脉怒张【392-397】testresult;右上肺呼吸音弱【399-406】testresult;干湿罗音【411-415】testresult;病理性杂音【440-445】testresult;压痛【460-462】testresult;反跳痛【463-466】testresult;肌紧张【467-470】testresult;移动性浊音【481-486】testresult;浮肿【492-494】testresult;}
+E={肺CT【507-510】test;}||R=TeRS||E={右侧肺门软组织影【513-521】testresult;占位性病变【525-530】testresult;双肺炎性改变【534-540】testresult;}
+E={肺CT【507-510】test;}||R=TeRD||E={双肺气肿【542-546】disease;}
+E={双肺气肿【542-546】disease;}||R=DIS||E={右侧肺门软组织影【513-521】testresult;占位性病变【525-530】testresult;双肺炎性改变【534-540】testresult;}
+E={心脏彩超【548-552】test;}||R=TeRS||E={主动脉弹性减低【555-562】testresult;三尖瓣少量返流【567-574】testresult;主动脉瓣少量返流【576-584】testresult;}
+E={心脏彩超【548-552】test;}||R=TeRD||E={心包积液 (少量)【586-595】disease;}
+E={心包积液 (少量)【586-595】disease;}||R=DIS||E={主动脉弹性减低【555-562】testresult;三尖瓣少量返流【567-574】testresult;主动脉瓣少量返流【576-584】testresult;}
+E={支气管镜检查【603-609】test;}||R=TeRD||E={小细胞肺癌【612-617】disease;}
+E={支持【924-926】treatment;对症治疗【928-932】treatment;}

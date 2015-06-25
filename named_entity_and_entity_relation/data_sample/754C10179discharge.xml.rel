@@ -1,0 +1,11 @@
+E={前列腺癌【162-166】disease;高血压病【168-172】disease;脑动脉硬化【174-179】disease;冠心病【181-184】disease;高血压【186-189】disease;糖尿病【191-194】disease;腔隙性脑梗死【196-202】disease;}
+E={前列腺癌【226-230】disease;高血压病2级【232-238】disease;冠心病【245-248】disease;2型糖尿病【250-255】disease;腔隙性脑梗死【257-263】disease;高脂血症【265-269】disease;胆囊结石【270-274】disease;慢性胆囊炎【276-281】disease;}
+E={高血压病2级【232-238】disease;}||R=DADt||E={极高危组【239-243】diseasetype;}
+E={排尿困难【313-317】complaintsymptom;尿频【318-320】complaintsymptom;尿急【321-323】complaintsymptom;}
+E={体温【331-333】test;脉搏【337-339】test;呼吸【346-348】test;血压【355-357】test;}
+E={肿大【383-385】testresult;干湿罗音【404-408】testresult;病理性杂音【428-433】testresult;}
+E={压痛【447-449】testresult;反跳痛【450-453】testresult;肌紧张【454-457】testresult;畸形【469-471】testresult;浮肿【476-478】testresult;病理反射【486-490】testresult;}
+E={营养脑细胞【549-554】treatment;对症治疗【555-559】treatment;}
+E={排尿困难【583-587】complaintsymptom;尿频【588-590】complaintsymptom;尿急【591-593】complaintsymptom;}
+E={肿大【627-629】testresult;干湿罗音【643-647】testresult;病理性杂音【666-671】testresult;}
+E={压痛【676-678】testresult;畸形【684-686】testresult;浮肿【691-693】testresult;}

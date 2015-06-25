@@ -1,0 +1,45 @@
+C=高血压 P=72:75 T=disease A=absent
+C=糖尿病史 P=77:81 T=disease A=absent
+C=肝炎 P=85:87 T=disease A=absent
+C=结核病史 P=89:93 T=disease A=absent
+C=气促 P=114:116 T=complaintsymptom A=present
+C=咳嗽 P=119:121 T=complaintsymptom A=present
+C=咳痰 P=124:126 T=complaintsymptom A=absent
+C=血丝 P=130:132 T=complaintsymptom A=absent
+C=支气管镜检查 P=145:151 T=test
+C=恶性肿瘤细胞 P=157:163 T=testresult A=absent
+C=咳嗽 P=173:175 T=complaintsymptom A=present
+C=咳白色泡沫痰 P=179:185 T=complaintsymptom A=present
+C=间断性发热 P=198:203 T=complaintsymptom A=present
+C=肺CT P=226:229 T=test
+C=左肺下叶占位性病变 P=232:241 T=testresult A=present
+C=双肺气肿 P=243:247 T=disease A=present
+C=右侧叶间积液 P=249:255 T=disease A=present
+C=右肺下叶纤维条索 P=257:265 T=testresult A=present
+C=支气管镜检查 P=268:274 T=test
+C=病理 P=275:277 T=test
+C=(左肺下叶背支基底支间嵴)非小细胞性癌 P=281:300 T=disease A=present
+C=GP方案化疗 P=307:313 T=treatment A=history
+C=普来乐化疗 P=318:323 T=treatment A=history
+C=气促 P=337:339 T=complaintsymptom A=present
+C=非小细胞肺癌 P=361:367 T=disease A=possible
+C=体温 P=383:385 T=test
+C=脉搏 P=394:396 T=test
+C=呼吸 P=406:408 T=test
+C=BP P=418:420 T=test
+C=颈静脉怒张 P=462:467 T=testresult A=absent
+C=双肺呼吸音粗 P=469:475 T=testresult A=present
+C=干湿罗音 P=480:484 T=testresult A=absent
+C=心率 P=486:488 T=test
+C=病理性杂音 P=510:515 T=testresult A=absent
+C=压痛 P=530:532 T=testresult A=absent
+C=反跳痛 P=534:537 T=testresult A=absent
+C=肌紧张 P=538:541 T=testresult A=absent
+C=移动性浊音 P=552:557 T=testresult A=absent
+C=浮肿 P=563:565 T=testresult A=absent
+C=病理 P=578:580 T=test
+C=(左肺下叶背支基底支间嵴) 非小细胞性癌 P=584:604 T=disease A=present
+C=非小细胞肺癌 P=627:633 T=disease A=possible
+C=化疗 P=836:838 T=treatment A=present
+C=支持 P=845:847 T=treatment A=present
+C=对症治疗 P=847:851 T=treatment A=present

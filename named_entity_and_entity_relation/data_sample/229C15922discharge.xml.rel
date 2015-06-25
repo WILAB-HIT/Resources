@@ -1,0 +1,8 @@
+E={脑动脉硬化【161-166】disease;冠心病【167-170】disease;}
+E={脑动脉硬化【194-199】disease;后循环缺血【200-205】disease;腔隙性脑梗死【206-212】disease;脑萎缩【213-216】disease;皮层下动脉硬化性脑病【217-227】disease;帕金森综合症【228-234】disease;冠心病【235-238】disease;高脂血症【239-243】disease;双肺间质改变【244-250】disease;颈椎病【251-254】disease;重度骨质疏松症【255-262】disease;}
+E={下肢无力【298-302】complaintsymptom;走路不稳【303-307】complaintsymptom;}
+E={血压【333-335】test;心率【346-348】test;呼吸【354-356】test;}
+E={眼震【396-398】testresult;著征【407-409】testresult;}
+E={双侧腱反射对称活跃【421-430】testresult;明显深浅感觉障碍【432-440】testresult;双下肢病理征【441-447】testresult;}
+E={眼震【584-586】testresult;著征【595-597】testresult;}
+E={明显深浅感觉障碍【610-618】testresult;双下肢病理征【619-625】testresult;}

@@ -1,0 +1,45 @@
+C=心前区不适待查 P=131:138 T=disease A=possible
+C=神经症 P=140:143 T=disease A=possible
+C=高血压病3级 P=145:151 T=disease A=possible
+C=极高危组 P=153:157 T=diseasetype
+C=心前区不适待查 P=181:188 T=disease A=possible
+C=神经症 P=190:193 T=disease A=possible
+C=高血压病3级 P=195:201 T=disease A=possible
+C=极高危组 P=203:207 T=diseasetype
+C=心脏神经官能症 P=231:238 T=disease A=present
+C=高血压病3级 P=240:246 T=disease A=present
+C=极高危组 P=248:252 T=diseasetype
+C=高胆固醇血症 P=254:260 T=disease A=present
+C=左肺大泡 P=262:266 T=disease A=present
+C=颈椎病 P=268:271 T=disease A=present
+C=高粘血症 P=273:277 T=disease A=present
+C=阵发性心前区不适 P=313:321 T=complaintsymptom A=present
+C=高血压病史 P=332:337 T=disease A=present
+C=降压药 P=357:360 T=treatment A=absent
+C=冠心病史 P=363:367 T=disease A=absent
+C=2型糖尿病史 P=369:375 T=disease A=absent
+C=腔隙性脑梗死 P=376:382 T=disease A=absent
+C=T P=394:395 T=test
+C=P P=403:404 T=test
+C=R P=411:412 T=test
+C=BP P=419:421 T=test
+C=发绀 P=456:458 T=testresult A=absent
+C=肿大 P=466:468 T=testresult A=absent
+C=明显干湿啰音 P=478:484 T=testresult A=absent
+C=心率 P=485:487 T=test
+C=病理性杂音 P=505:510 T=testresult A=absent
+C=压痛 P=519:521 T=testresult A=absent
+C=反跳痛 P=522:525 T=testresult A=absent
+C=浮肿 P=530:532 T=testresult A=absent
+C=病理反射 P=540:544 T=testresult A=absent
+C=改善循环 P=589:593 T=treatment A=present
+C=营养心肌 P=596:600 T=treatment A=present
+C=对症治疗 P=603:607 T=treatment A=present
+C=阵发性心前区不适 P=638:646 T=complaintsymptom A=present
+C=BP P=661:663 T=test
+C=明显干湿啰音 P=684:690 T=testresult A=absent
+C=心率 P=691:693 T=test
+C=病理性杂音 P=711:716 T=testresult A=absent
+C=压痛 P=725:727 T=testresult A=absent
+C=反跳痛 P=728:731 T=testresult A=absent
+C=浮肿 P=736:738 T=testresult A=absent

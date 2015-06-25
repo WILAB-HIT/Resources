@@ -1,0 +1,42 @@
+C=阑尾炎术后 P=65:70 T=treatment A=history
+C=乙肝 P=74:76 T=disease A=absent
+C=结核 P=76:78 T=disease A=absent
+C=传染病史 P=79:83 T=disease A=absent
+C=药物过敏史 P=87:92 T=disease A=absent
+C=手术史 P=94:97 T=treatment A=absent
+C=输血史 P=99:102 T=disease A=absent
+C=阵发性头晕 P=120:125 T=complaintsymptom A=conditional
+C=大汗 P=139:141 T=complaintsymptom A=conditional
+C=胸闷 P=143:145 T=complaintsymptom A=conditional
+C=气短 P=146:148 T=complaintsymptom A=conditional
+C=周身无力 P=150:154 T=complaintsymptom A=conditional
+C=视物旋转 P=156:160 T=complaintsymptom A=absent
+C=咳嗽 P=163:165 T=complaintsymptom A=absent
+C=咳痰 P=166:168 T=complaintsymptom A=absent
+C=恶心 P=171:173 T=complaintsymptom A=absent
+C=呕吐 P=174:176 T=complaintsymptom A=absent
+C=头痛 P=179:181 T=complaintsymptom A=absent
+C=耳鸣 P=182:184 T=complaintsymptom A=absent
+C=肢体活动障碍 P=187:193 T=complaintsymptom A=absent
+C=大小便失禁 P=194:199 T=complaintsymptom A=absent
+C=意识障碍 P=202:206 T=complaintsymptom A=absent
+C=跌倒发作 P=209:213 T=complaintsymptom A=absent
+C=脑供血不全 P=241:246 T=disease A=possible
+C=睡眠欠佳 P=270:274 T=complaintsymptom A=present
+C=T P=285:286 T=test
+C=P P=295:296 T=test
+C=R P=305:306 T=test
+C=BP P=315:317 T=test
+C=发绀 P=346:348 T=testresult A=absent
+C=肿大 P=357:359 T=testresult A=absent
+C=明显干湿啰音 P=372:378 T=testresult A=absent
+C=心率 P=384:386 T=test
+C=病理性杂音 P=400:405 T=testresult A=absent
+C=下腹压痛 P=416:420 T=testresult A=present
+C=反跳痛 P=423:426 T=testresult A=absent
+C=浮肿 P=432:434 T=testresult A=absent
+C=病理反射 P=443:447 T=testresult A=absent
+C=脑供血不全 P=488:493 T=disease A=possible
+C=阑尾炎术后 P=496:501 T=disease A=present
+C=改善脑循环 P=801:806 T=treatment A=present
+C=对症 P=812:814 T=treatment A=present

@@ -1,0 +1,50 @@
+C=高血压 P=72:75 T=disease A=absent
+C=糖尿病史 P=77:81 T=disease A=absent
+C=肝炎 P=84:86 T=disease A=absent
+C=结核病史 P=88:92 T=disease A=absent
+C=咳嗽 P=113:115 T=complaintsymptom A=present
+C=咳少量白色粘痰 P=117:124 T=complaintsymptom A=present
+C=抗炎治疗 P=128:132 T=treatment A=history
+C=抗炎 P=157:159 T=treatment A=history
+C=中药治疗 P=161:165 T=treatment A=history
+C=支气管镜检查 P=186:192 T=test
+C=小细胞肺癌 P=195:200 T=disease A=present
+C=EP方案化疗 P=203:209 T=treatment A=history
+C=小细胞肺癌 P=243:248 T=disease A=possible
+C=发热 P=261:263 T=complaintsymptom A=absent
+C=头晕 P=266:268 T=complaintsymptom A=absent
+C=乏力 P=270:272 T=complaintsymptom A=absent
+C=恶心 P=275:277 T=complaintsymptom A=absent
+C=呕吐 P=279:281 T=complaintsymptom A=absent
+C=腹痛 P=284:286 T=complaintsymptom A=absent
+C=腹泻 P=288:290 T=complaintsymptom A=absent
+C=体温 P=315:317 T=test
+C=脉搏 P=328:330 T=test
+C=呼吸 P=338:340 T=test
+C=BP P=348:350 T=test
+C=颈静脉怒张 P=392:397 T=testresult A=absent
+C=右上肺呼吸音弱 P=399:406 T=testresult A=present
+C=干湿罗音 P=411:415 T=testresult A=absent
+C=心率 P=417:419 T=test
+C=病理性杂音 P=440:445 T=testresult A=absent
+C=压痛 P=460:462 T=testresult A=absent
+C=反跳痛 P=463:466 T=testresult A=absent
+C=肌紧张 P=467:470 T=testresult A=absent
+C=移动性浊音 P=481:486 T=testresult A=absent
+C=浮肿 P=492:494 T=testresult A=absent
+C=肺CT P=507:510 T=test
+C=右侧肺门软组织影 P=513:521 T=testresult A=present
+C=占位性病变 P=525:530 T=testresult A=possible
+C=双肺炎性改变 P=534:540 T=testresult A=present
+C=双肺气肿 P=542:546 T=disease A=present
+C=心脏彩超 P=548:552 T=test
+C=主动脉弹性减低 P=555:562 T=testresult A=present
+C=三尖瓣少量返流 P=567:574 T=testresult A=present
+C=主动脉瓣少量返流 P=576:584 T=testresult A=present
+C=心包积液 (少量) P=586:595 T=disease A=present
+C=支气管镜检查 P=603:609 T=test
+C=小细胞肺癌 P=612:617 T=disease A=present
+C=小细胞肺癌 P=640:645 T=disease A=possible
+C=化疗 P=915:917 T=treatment A=present
+C=支持 P=924:926 T=treatment A=present
+C=对症治疗 P=928:932 T=treatment A=present

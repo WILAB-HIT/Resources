@@ -1,0 +1,57 @@
+C=高血压病 P=74:78 T=disease A=absent
+C=糖尿病 P=80:83 T=disease A=absent
+C=冠心病病史 P=85:90 T=disease A=absent
+C=肝炎 P=94:96 T=disease A=absent
+C=结核 P=98:100 T=disease A=absent
+C=传染病史 P=101:105 T=disease A=absent
+C=药物过敏史 P=109:114 T=disease A=absent
+C=子宫肌瘤切除术史 P=116:124 T=treatment A=history
+C=左侧耳仓感染清创术史 P=126:136 T=treatment A=history
+C=阵发性咳嗽 P=155:160 T=complaintsymptom A=present
+C=咳嗽 P=162:164 T=complaintsymptom A=present
+C=咳黄痰 P=183:186 T=complaintsymptom A=present
+C=血丝 P=196:198 T=complaintsymptom A=absent
+C=明显胸痛 P=201:205 T=complaintsymptom A=absent
+C=发热 P=208:210 T=complaintsymptom A=absent
+C=胸闷 P=213:215 T=complaintsymptom A=absent
+C=气短 P=217:219 T=complaintsymptom A=absent
+C=声音嘶哑 P=222:226 T=complaintsymptom A=absent
+C=吞咽呛咳 P=228:232 T=complaintsymptom A=absent
+C=抗炎治疗 P=236:240 T=treatment A=present
+C=咳嗽 P=246:248 T=complaintsymptom A=present
+C=咳痰 P=252:254 T=complaintsymptom A=present
+C=肺CT P=259:262 T=test
+C=结节影 P=269:272 T=testresult A=present
+C=肺占位 P=286:289 T=disease A=possible
+C=食欲不佳 P=302:306 T=complaintsymptom A=present
+C=睡眠差 P=308:311 T=complaintsymptom A=present
+C=大便干燥 P=313:317 T=complaintsymptom A=present
+C=体重减轻 P=325:329 T=complaintsymptom A=present
+C=体温 P=340:342 T=test
+C=脉搏 P=349:351 T=test
+C=呼吸 P=358:360 T=test
+C=血压 P=367:369 T=test
+C=黄染 P=406:408 T=testresult A=absent
+C=出血点 P=409:412 T=testresult A=absent
+C=肿大 P=422:424 T=testresult A=absent
+C=苍白 P=430:432 T=testresult A=absent
+C=充血 P=438:440 T=testresult A=absent
+C=水肿 P=440:442 T=testresult A=absent
+C=畸形 P=449:451 T=testresult A=absent
+C=肺部听诊 P=462:466 T=test
+C=干湿啰音 P=471:475 T=testresult A=absent
+C=心脏听诊 P=477:481 T=test
+C=病理性杂音 P=493:498 T=testresult A=absent
+C=压痛 P=505:507 T=testresult A=absent
+C=反跳痛 P=508:511 T=testresult A=absent
+C=浮肿 P=529:531 T=testresult A=absent
+C=病理反射 P=540:544 T=testresult A=absent
+C=肺CT P=559:562 T=test
+C=结节影 P=568:571 T=testresult A=present
+C=肺占位 P=594:597 T=disease A=possible
+C=肿瘤 P=599:601 T=disease A=possible
+C=肿瘤系列 P=1069:1073 T=test
+C=生化系列 P=1075:1079 T=test
+C=尿常规 P=1084:1087 T=test
+C=抗炎治疗 P=1094:1098 T=treatment A=present
+C=对症 P=1105:1107 T=treatment A=present

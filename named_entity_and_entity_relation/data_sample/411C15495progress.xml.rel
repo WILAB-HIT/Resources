@@ -1,0 +1,13 @@
+E={倍他乐克【102-106】treatment;氨氯地平【108-112】treatment;左肺脓胸术后【118-124】treatment;}
+E={倍他乐克【102-106】treatment;氨氯地平【108-112】treatment;}||R=TrAD||E={高血压病史【76-81】disease;}
+E={发热【161-163】complaintsymptom;寒战【185-187】complaintsymptom;咳嗽【190-192】complaintsymptom;咯血丝【194-197】complaintsymptom;明显咳痰【200-204】complaintsymptom;胸痛【207-209】complaintsymptom;胸闷【212-214】complaintsymptom;气短【216-218】complaintsymptom;头痛【221-223】complaintsymptom;头晕【225-227】complaintsymptom;恶心【228-230】complaintsymptom;呕吐【232-234】complaintsymptom;周身乏力【239-243】complaintsymptom;食欲不振【245-249】complaintsymptom;}
+E={体温【165-167】test;}||R=TeAS||E={发热【161-163】complaintsymptom;}
+E={肺CT【270-273】test;}||R=TeRD||E={右肺下叶炎性病变【281-289】disease;肺占位【301-304】disease;}
+E={肺CT【270-273】test;}||R=TeRS||E={右肺下叶软组织影【291-299】testresult;}
+E={右肺下叶炎性病变【281-289】disease;肺占位【301-304】disease;}||R=DIS||E={右肺下叶软组织影【291-299】testresult;}
+E={血压【347-349】test;心率【361-363】test;}
+E={肥胖【370-372】testresult;发绀【377-379】testresult;充血【383-385】testresult;大【391-392】testresult;手术瘢痕【400-404】testresult;双肺呼吸音弱【406-412】testresult;明显干湿性啰音【417-424】testresult;杂音【438-440】testresult;压痛【453-455】testresult;水肿【470-472】testresult;}
+E={肺CT【494-497】test;}||R=TeRD||E={右肺下叶炎性病变【502-510】disease;肺占位【522-525】disease;}
+E={肺CT【494-497】test;}||R=TeRS||E={右肺下叶软组织影【512-520】testresult;}
+E={右肺下叶炎性病变【502-510】disease;肺占位【522-525】disease;}||R=DIS||E={右肺下叶软组织影【512-520】testresult;}
+E={高血压病3级【567-573】disease;}||R=DADt||E={极高危组【575-579】diseasetype;}
