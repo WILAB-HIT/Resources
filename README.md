@@ -1,2 +1,7 @@
-# Resources
-Resouces of Chinese Electronic Medical Records
+# RESOURCES
+
+## Resouces of Chinese Electronic Medical Records ##
+
+- NAMED ENTITY AND ENTITY RELATION
+
+---
