@@ -13,7 +13,7 @@
 
 **Details of the entity information in the file "106H913531discharge.xml.ent"**
 
-C: entity; 
+C: entity;
 
 P: position in the text
 
