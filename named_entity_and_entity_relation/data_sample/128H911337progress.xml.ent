@@ -1,0 +1,59 @@
+C=高血压 P=70:73 T=disease A=absent
+C=糖尿病史 P=75:79 T=disease A=absent
+C=传染病 P=83:86 T=disease A=absent
+C=结核病史 P=88:92 T=disease A=absent
+C=家族遗传性疾病 P=96:103 T=disease A=absent
+C=颈部包块 P=122:126 T=complaintsymptom A=present
+C=声嘶 P=136:138 T=complaintsymptom A=present
+C=气喘 P=139:141 T=complaintsymptom A=present
+C=颈CT P=143:146 T=test
+C=右颈软组织肿物 P=148:155 T=testresult A=present
+C=喉腔受压 P=157:161 T=testresult A=present
+C=舌骨骨质受累破坏 P=169:177 T=testresult A=present
+C=左颈淋巴结肿大 P=191:198 T=complaintsymptom A=present
+C=咳嗽 P=200:202 T=complaintsymptom A=absent
+C=咳痰 P=204:206 T=complaintsymptom A=absent
+C=饮食呛咳 P=209:213 T=complaintsymptom A=absent
+C=胸闷 P=216:218 T=complaintsymptom A=absent
+C=腹痛 P=221:223 T=complaintsymptom A=absent
+C=腹泻 P=225:227 T=complaintsymptom A=absent
+C=全喉切除 P=233:237 T=treatment A=history
+C=左颈部廓清术 P=239:245 T=treatment A=history
+C=术后病理 P=247:251 T=test
+C=左侧喉咽中低分化鳞状细胞癌 P=253:266 T=disease A=present
+C=(左颈廓清) 淋巴绐转移1/30 P=273:289 T=testresult A=present
+C=TDF/CF方案化疗 P=296:306 T=treatment A=history
+C=化疗反应 P=311:315 T=complaintsymptom A=present
+C=乏力 P=330:332 T=complaintsymptom A=occasional
+C=颈部多发淋巴结肿大 P=334:343 T=complaintsymptom A=present
+C=艾素 P=349:351 T=treatment A=history
+C=5-Fu P=352:356 T=treatment A=history
+C=DDP P=357:360 T=treatment A=history
+C=化疗 P=365:367 T=treatment A=history
+C=乏力 P=368:370 T=complaintsymptom A=present
+C=颈部肿大淋巴结 P=374:381 T=complaintsymptom A=present
+C=反应 P=387:389 T=complaintsymptom A=present
+C=喉癌术后 P=411:415 T=disease A=present
+C=异 P=442:443 T=complaintsymptom A=absent
+C=明显增减 P=450:454 T=complaintsymptom A=absent
+C=体温 P=465:467 T=test
+C=脉搏 P=476:478 T=test
+C=呼吸 P=487:489 T=test
+C=BP P=498:500 T=test
+C=黄染 P=543:545 T=testresult A=absent
+C=肿大 P=555:557 T=testresult A=absent
+C=手术瘢痕 P=564:568 T=testresult A=present
+C=喉体缺如 P=580:584 T=testresult A=present
+C=颈静脉怒张 P=587:592 T=testresult A=absent
+C=干湿啰音 P=605:609 T=testresult A=absent
+C=病理性杂音 P=623:628 T=testresult A=absent
+C=压痛 P=643:645 T=testresult A=absent
+C=反跳痛 P=647:650 T=testresult A=absent
+C=肌紧张 P=651:654 T=testresult A=absent
+C=移动性浊音 P=664:669 T=testresult A=absent
+C=浮肿 P=677:679 T=testresult A=absent
+C=病理反射 P=689:693 T=testresult A=absent
+C=喉癌术后 P=734:738 T=disease A=present
+C=左颈廓清术后 P=741:747 T=disease A=present
+C=颈部多发淋巴结转移 P=750:759 T=disease A=possible
+C=化疗 P=964:966 T=treatment A=present

@@ -1,0 +1,18 @@
+E={高血压【84-87】disease;糖尿病史【89-93】disease;肝炎【97-99】disease;结核病史【101-105】disease;}
+E={乳腺癌【140-143】disease;}||R=DIS||E={右乳肿物【118-122】complaintsymptom;}
+E={手术治疗【145-149】treatment;}||R=TrAS||E={右乳肿物【118-122】complaintsymptom;}
+E={手术治疗【145-149】treatment;}||R=TrAD||E={乳腺癌【140-143】disease;}
+E={术后病理【150-154】test;}||R=TeRD||E={浸润性导管癌【158-164】disease;}
+E={浸润性导管癌【158-164】disease;}||R=DADt||E={2级【164-166】diseasetype;}
+E={IHC【203-206】test;ER【215-217】test;PR【221-223】test;P53【260-263】test;}
+E={C-erbB-2(++~++)【228-243】testresult;Ki67 (+)【245-253】testresult;}
+E={AT方案化疗【272-278】treatment;紫杉醇【282-285】treatment;艾达生【290-293】treatment;}||R=TrCS||E={耐受欠佳【299-303】complaintsymptom;}
+E={胸闷【316-318】complaintsymptom;乏力【320-322】complaintsymptom;咳嗽【325-327】complaintsymptom;咳痰【329-331】complaintsymptom;}
+E={CT【340-342】test;}||R=TeRS||E={右乳癌术后改变【345-352】testresult;双肺小结节【368-373】testresult;}
+E={CT【340-342】test;}||R=TeRD||E={右侧胸腔积液【354-360】disease;双肺感染【362-366】disease;转移【375-377】disease;肝转移【378-381】disease;}
+E={右侧胸腔积液【354-360】disease;双肺感染【362-366】disease;转移【375-377】disease;肝转移【378-381】disease;}||R=DIS||E={右乳癌术后改变【345-352】testresult;双肺小结节【368-373】testresult;}
+E={AT方案化疗【384-390】treatment;}||R=TrIS||E={胸闷【394-396】complaintsymptom;乏力症状【396-400】complaintsymptom;}
+E={体温【448-450】test;脉搏【458-460】test;呼吸【467-469】test;BP【476-478】test;心率【538-540】test;}
+E={颈静脉怒张【514-519】testresult;右下肺呼吸音弱【521-528】testresult;干湿罗音【532-536】testresult;病理性杂音【557-562】testresult;右乳缺如【564-568】testresult;手术瘢痕【575-579】testresult;手术疤痕【593-597】testresult;压痛【604-606】testresult;反跳痛【608-611】testresult;肌紧张【612-615】testresult;移动性浊音【626-631】testresult;浮肿【637-639】testresult;}
+E={乳腺癌术后【676-681】disease;肝转移【682-685】disease;骨转移【686-689】disease;肺转移【690-693】disease;}
+E={对症【1022-1024】treatment;支持治疗【1024-1028】treatment;}

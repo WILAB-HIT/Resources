@@ -1,0 +1,62 @@
+C=阑尾炎手术史 P=75:81 T=treatment A=history
+C=高血压 P=84:87 T=disease A=absent
+C=糖尿病史 P=89:93 T=disease A=absent
+C=肝炎 P=97:99 T=disease A=absent
+C=结核病史 P=101:105 T=disease A=absent
+C=右乳肿物 P=118:122 T=complaintsymptom A=present
+C=乳腺癌 P=140:143 T=disease A=possible
+C=手术治疗 P=145:149 T=treatment A=history
+C=术后病理 P=150:154 T=test
+C=浸润性导管癌 P=158:164 T=disease A=present
+C=2级 P=164:166 T=diseasetype
+C=各组淋巴结3/22 P=168:177 T=testresult A=present
+C=IHC P=203:206 T=test
+C=ER P=215:217 T=test
+C=PR P=221:223 T=test
+C=C-erbB-2(++~++) P=228:243 T=testresult A=present
+C=Ki67 (+) P=245:253 T=testresult A=present
+C=P53 P=260:263 T=test
+C=AT方案化疗 P=272:278 T=treatment A=history
+C=紫杉醇 P=282:285 T=treatment A=history
+C=艾达生 P=290:293 T=treatment A=history
+C=耐受欠佳 P=299:303 T=complaintsymptom A=present
+C=胸闷 P=316:318 T=complaintsymptom A=present
+C=乏力 P=320:322 T=complaintsymptom A=present
+C=咳嗽 P=325:327 T=complaintsymptom A=absent
+C=咳痰 P=329:331 T=complaintsymptom A=absent
+C=CT P=340:342 T=test
+C=右乳癌术后改变 P=345:352 T=testresult A=present
+C=右侧胸腔积液 P=354:360 T=disease A=present
+C=双肺感染 P=362:366 T=disease A=present
+C=双肺小结节 P=368:373 T=testresult A=present
+C=转移 P=375:377 T=disease A=possible
+C=肝转移 P=378:381 T=disease A=present
+C=AT方案化疗 P=384:390 T=treatment A=history
+C=胸闷 P=394:396 T=complaintsymptom A=present
+C=乏力症状 P=396:400 T=complaintsymptom A=present
+C=咳嗽 P=408:410 T=complaintsymptom A=occasional
+C=乏力 P=437:439 T=complaintsymptom A=present
+C=体温 P=448:450 T=test
+C=脉搏 P=458:460 T=test
+C=呼吸 P=467:469 T=test
+C=BP P=476:478 T=test
+C=颈静脉怒张 P=514:519 T=testresult A=absent
+C=右下肺呼吸音弱 P=521:528 T=testresult A=present
+C=干湿罗音 P=532:536 T=testresult A=absent
+C=心率 P=538:540 T=test
+C=病理性杂音 P=557:562 T=testresult A=absent
+C=右乳缺如 P=564:568 T=testresult A=present
+C=手术瘢痕 P=575:579 T=testresult A=present
+C=手术疤痕 P=593:597 T=testresult A=present
+C=压痛 P=604:606 T=testresult A=absent
+C=反跳痛 P=608:611 T=testresult A=absent
+C=肌紧张 P=612:615 T=testresult A=absent
+C=移动性浊音 P=626:631 T=testresult A=absent
+C=浮肿 P=637:639 T=testresult A=absent
+C=乳腺癌术后 P=676:681 T=disease A=present
+C=肝转移 P=682:685 T=disease A=possible
+C=骨转移 P=686:689 T=disease A=possible
+C=肺转移 P=690:693 T=disease A=possible
+C=对症 P=1022:1024 T=treatment A=present
+C=支持治疗 P=1024:1028 T=treatment A=present
+C=化疗 P=1035:1037 T=treatment A=present

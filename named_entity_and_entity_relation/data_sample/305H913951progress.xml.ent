@@ -1,0 +1,36 @@
+C=高血压 P=65:68 T=disease A=absent
+C=糖尿病史 P=70:74 T=disease A=absent
+C=肝炎 P=78:80 T=disease A=absent
+C=结核病史 P=81:85 T=disease A=absent
+C=左颈部肿物 P=120:125 T=complaintsymptom A=present
+C=明显疼痛 P=143:147 T=complaintsymptom A=absent
+C=肿物 P=157:159 T=complaintsymptom A=present
+C=肿物直径 P=167:171 T=test
+C=压痛 P=186:188 T=complaintsymptom A=absent
+C=经皮肿物穿剌活检 P=208:216 T=test
+C=病理 P=218:220 T=test
+C=转移癌 P=231:234 T=disease A=present
+C=鳞状细胞癌 P=236:241 T=disease A=possible
+C=明显减轻 P=278:282 T=testresult A=absent
+C=体温 P=298:300 T=test
+C=脉搏 P=309:311 T=test
+C=呼吸 P=320:322 T=test
+C=BP P=331:333 T=test
+C=黄染 P=378:380 T=testresult A=absent
+C=肿大的淋巴结 P=388:394 T=testresult A=absent
+C=直径 P=396:398 T=test
+C=压痛 P=412:414 T=testresult A=absent
+C=颈静脉怒张 P=427:432 T=testresult A=absent
+C=干湿啰音 P=451:455 T=testresult A=absent
+C=心率 P=461:463 T=test
+C=病理性杂音 P=477:482 T=testresult A=absent
+C=手术瘢痕 P=498:502 T=testresult A=absent
+C=压痛 P=507:509 T=testresult A=absent
+C=反跳痛 P=510:513 T=testresult A=absent
+C=肌紧张 P=514:517 T=testresult A=absent
+C=移动性浊音 P=527:532 T=testresult A=absent
+C=浮肿 P=540:542 T=testresult A=absent
+C=病理反射 P=551:555 T=testresult A=absent
+C=左颈部转移性鳞癌 P=596:604 T=disease A=possible
+C=支持 P=793:795 T=treatment A=present
+C=对症 P=795:797 T=treatment A=present

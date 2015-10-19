@@ -1,0 +1,10 @@
+E={糖尿病【90-93】disease;高血压3级【94-99】disease;心律失常【105-109】disease;频发房早【110-114】disease;脑动脉硬化【115-120】disease;}
+E={高血压3级【94-99】disease;}||R=DADt||E={极高危组【100-104】diseasetype;}
+E={糖尿病【144-147】disease;高血压3级【148-153】disease;心律失常【159-163】disease;频发房早【164-168】disease;脑动脉硬化【169-174】disease;}
+E={高血压3级【148-153】disease;}||R=DADt||E={极高危组【154-158】diseasetype;}
+E={多饮【203-205】complaintsymptom;多食【206-208】complaintsymptom;小便增多【209-213】complaintsymptom;}
+E={脉搏【224-226】test;呼吸【233-235】test;BP【242-244】test;心率【302-304】test;}
+E={颈静脉怒张【281-286】testresult;干湿罗音【297-301】testresult;节律不齐【310-314】testresult;病理性杂音【322-327】testresult;腹部稍膨隆【328-333】testresult;压痛【340-342】testresult;反跳痛【343-346】testresult;肌紧张【347-350】testresult;移动性浊音【359-364】testresult;浮肿【369-371】testresult;}
+E={改善供血【405-409】treatment;加强脑代谢【410-415】treatment;}
+E={饮食【422-424】treatment;运动【424-426】treatment;}
+E={降压【437-439】treatment;抗心律失常【441-446】treatment;}

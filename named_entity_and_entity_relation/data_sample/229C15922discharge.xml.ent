@@ -1,0 +1,33 @@
+C=脑动脉硬化 P=132:137 T=disease A=possible
+C=脑动脉硬化 P=161:166 T=disease A=possible
+C=冠心病 P=167:170 T=disease A=possible
+C=脑动脉硬化 P=194:199 T=disease A=present
+C=后循环缺血 P=200:205 T=disease A=present
+C=腔隙性脑梗死 P=206:212 T=disease A=present
+C=脑萎缩 P=213:216 T=disease A=present
+C=皮层下动脉硬化性脑病 P=217:227 T=disease A=present
+C=帕金森综合症 P=228:234 T=disease A=present
+C=冠心病 P=235:238 T=disease A=present
+C=高脂血症 P=239:243 T=disease A=present
+C=双肺间质改变 P=244:250 T=disease A=present
+C=颈椎病 P=251:254 T=disease A=present
+C=重度骨质疏松症 P=255:262 T=disease A=present
+C=下肢无力 P=298:302 T=complaintsymptom A=present
+C=走路不稳 P=303:307 T=complaintsymptom A=present
+C=血压 P=333:335 T=test
+C=心率 P=346:348 T=test
+C=呼吸 P=354:356 T=test
+C=双侧瞳孔 P=372:376 T=test
+C=眼震 P=396:398 T=testresult A=absent
+C=著征 P=407:409 T=testresult A=absent
+C=双侧腱反射对称活跃 P=421:430 T=testresult A=present
+C=明显深浅感觉障碍 P=432:440 T=testresult A=absent
+C=双下肢病理征 P=441:447 T=testresult A=absent
+C=改善脑循环及代谢 P=474:482 T=treatment A=present
+C=抗血小板治疗 P=489:495 T=treatment A=present
+C=抗骨质疏松治疗 P=502:509 T=treatment A=present
+C=对症 P=516:518 T=treatment A=present
+C=眼震 P=584:586 T=testresult A=absent
+C=著征 P=595:597 T=testresult A=absent
+C=明显深浅感觉障碍 P=610:618 T=testresult A=absent
+C=双下肢病理征 P=619:625 T=testresult A=absent

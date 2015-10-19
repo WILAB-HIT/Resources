@@ -1,0 +1,37 @@
+C=糖尿病 P=63:66 T=disease A=possible
+C=糖尿病 P=90:93 T=disease A=possible
+C=高血压3级 P=94:99 T=disease A=possible
+C=极高危组 P=100:104 T=diseasetype
+C=心律失常 P=105:109 T=disease A=possible
+C=频发房早 P=110:114 T=disease A=possible
+C=脑动脉硬化 P=115:120 T=disease A=possible
+C=糖尿病 P=144:147 T=disease A=present
+C=高血压3级 P=148:153 T=disease A=present
+C=极高危组 P=154:158 T=diseasetype
+C=心律失常 P=159:163 T=disease A=present
+C=频发房早 P=164:168 T=disease A=present
+C=脑动脉硬化 P=169:174 T=disease A=present
+C=多饮 P=203:205 T=complaintsymptom A=present
+C=多食 P=206:208 T=complaintsymptom A=present
+C=小便增多 P=209:213 T=complaintsymptom A=present
+C=脉搏 P=224:226 T=test
+C=呼吸 P=233:235 T=test
+C=BP P=242:244 T=test
+C=颈静脉怒张 P=281:286 T=testresult A=absent
+C=干湿罗音 P=297:301 T=testresult A=absent
+C=心率 P=302:304 T=test
+C=节律不齐 P=310:314 T=testresult A=present
+C=病理性杂音 P=322:327 T=testresult A=absent
+C=腹部稍膨隆 P=328:333 T=testresult A=present
+C=压痛 P=340:342 T=testresult A=absent
+C=反跳痛 P=343:346 T=testresult A=absent
+C=肌紧张 P=347:350 T=testresult A=absent
+C=移动性浊音 P=359:364 T=testresult A=absent
+C=浮肿 P=369:371 T=testresult A=absent
+C=改善供血 P=405:409 T=treatment A=present
+C=加强脑代谢 P=410:415 T=treatment A=present
+C=饮食 P=422:424 T=treatment A=present
+C=运动 P=424:426 T=treatment A=present
+C=降压 P=437:439 T=treatment A=present
+C=抗心律失常 P=441:446 T=treatment A=present
+C=控制危险因素 P=453:459 T=treatment A=present

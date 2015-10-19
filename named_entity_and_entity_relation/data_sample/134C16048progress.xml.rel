@@ -1,0 +1,6 @@
+E={阑尾炎术后【65-70】treatment;手术史【94-97】treatment;}
+E={乙肝【74-76】disease;结核【76-78】disease;传染病史【79-83】disease;药物过敏史【87-92】disease;输血史【99-102】disease;}
+E={阵发性头晕【120-125】complaintsymptom;大汗【139-141】complaintsymptom;胸闷【143-145】complaintsymptom;气短【146-148】complaintsymptom;周身无力【150-154】complaintsymptom;视物旋转【156-160】complaintsymptom;咳嗽【163-165】complaintsymptom;咳痰【166-168】complaintsymptom;恶心【171-173】complaintsymptom;呕吐【174-176】complaintsymptom;头痛【179-181】complaintsymptom;耳鸣【182-184】complaintsymptom;肢体活动障碍【187-193】complaintsymptom;大小便失禁【194-199】complaintsymptom;意识障碍【202-206】complaintsymptom;跌倒发作【209-213】complaintsymptom;}
+E={T【285-286】test;P【295-296】test;R【305-306】test;BP【315-317】test;}
+E={发绀【346-348】testresult;肿大【357-359】testresult;}
+E={下腹压痛【416-420】testresult;反跳痛【423-426】testresult;}

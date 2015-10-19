@@ -1,0 +1,8 @@
+E={肛周感染【187-191】disease;慢性胆囊炎【193-198】disease;结肠息肉【200-204】disease;腔隙性脑梗【208-213】disease;}
+E={结肠息肉【200-204】disease;}||R=DADt||E={I型【204-206】diseasetype;}
+E={胃肠型【259-262】testresult;蠕动波【263-266】testresult;腹壁静脉曲张【275-281】testresult;手术疤痕【288-292】testresult;振水声【295-298】testresult;压痛【304-306】testresult;反跳痛【308-311】testresult;腹部包块【312-316】testresult;肌紧张【322-325】testresult;压痛【341-343】testresult;MUrDhy征【346-353】testresult;肝区叩痛【365-369】testresult;移动性浊音【372-377】testresult;气过水声【383-387】testresult;}
+E={肛诊【398-400】test;指诊【421-423】test;}
+E={对症【476-478】treatment;支持治疗【480-484】treatment;}
+E={胃肠型【536-539】testresult;蠕动波【540-543】testresult;压痛【558-560】testresult;反跳痛【562-565】testresult;肌紧张【566-569】testresult;MUrDhy征【570-577】testresult;移动性浊音【581-586】testresult;}
+E={肛诊【398-400】test;}||R=TeRS||E={肛周皮肤局部略红肿【405-414】testresult;触痛【415-417】testresult;明显异常【425-429】testresult;}
+E={指诊【421-423】test;}||R=TeRS||E={明显异常【425-429】testresult;}

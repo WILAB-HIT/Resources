@@ -1,0 +1,35 @@
+C=食道癌 P=63:66 T=disease A=possible
+C=腹腔淋巴结转移 P=67:74 T=disease A=possible
+C=食道癌 P=98:101 T=disease A=possible
+C=腹腔淋巴结转移 P=102:109 T=disease A=possible
+C=食道癌 P=133:136 T=disease A=present
+C=腹腔淋巴结转移 P=137:144 T=disease A=present
+C=上腹胀痛 P=172:176 T=complaintsymptom A=present
+C=食道癌 P=181:184 T=disease A=possible
+C=T P=193:194 T=test
+C=P P=201:202 T=test
+C=R P=209:210 T=test
+C=BP P=217:219 T=test
+C=黄染 P=243:245 T=testresult A=absent
+C=肿大 P=254:256 T=testresult A=absent
+C=干湿啰音 P=267:271 T=testresult A=absent
+C=心率 P=276:278 T=test
+C=病理性杂音 P=291:296 T=testresult A=absent
+C=手术瘢痕 P=309:313 T=testresult A=absent
+C=压痛 P=317:319 T=testresult A=absent
+C=反跳痛 P=320:323 T=testresult A=absent
+C=肌紧张 P=324:327 T=testresult A=absent
+C=移动性浊音 P=334:339 T=testresult A=absent
+C=浮肿 P=346:348 T=testresult A=absent
+C=病理反射 P=356:360 T=testresult A=absent
+C=对症 P=392:394 T=treatment A=present
+C=支持治疗 P=394:398 T=treatment A=present
+C=肿大 P=450:452 T=testresult A=absent
+C=著征 P=456:458 T=testresult A=absent
+C=手术瘢痕 P=468:472 T=testresult A=absent
+C=压痛 P=476:478 T=testresult A=absent
+C=反跳痛 P=479:482 T=testresult A=absent
+C=肌紧张 P=483:486 T=testresult A=absent
+C=移动性浊音 P=493:498 T=testresult A=absent
+C=浮肿 P=505:507 T=testresult A=absent
+C=康赛迪治疗 P=558:563 T=treatment A=present

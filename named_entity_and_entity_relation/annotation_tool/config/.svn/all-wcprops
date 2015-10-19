@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/yangjinfeng/emrproject/!svn/ver/17/trunk/config
+END
+entitytype.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/yangjinfeng/emrproject/!svn/ver/28/trunk/config/entitytype.properties
+END
+relationtype.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/yangjinfeng/emrproject/!svn/ver/3/trunk/config/relationtype.properties
+END
+asserttype.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/yangjinfeng/emrproject/!svn/ver/17/trunk/config/asserttype.properties
+END
