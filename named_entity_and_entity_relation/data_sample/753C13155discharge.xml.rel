@@ -1,6 +1,0 @@
-E={脑动脉硬化【161-166】disease;后循环缺血【167-172】disease;腔隙性脑梗死【173-179】disease;2型糖尿病【180-185】disease;肝囊肿【186-189】disease;慢性浅表性胃炎【190-197】disease;扁桃体术后【198-203】disease;}
-E={脑动脉硬化【227-232】disease;后循环缺血【233-238】disease;腔隙性脑梗死【239-245】disease;2型糖尿病【246-251】disease;糖尿病视网膜病变【252-260】disease;高脂血症【261-265】disease;肝囊肿【266-269】disease;慢性浅表性胃炎【270-277】disease;扁桃体术后【278-283】disease;}
-E={血压【328-330】test;心率【341-343】test;呼吸【349-351】test;双侧瞳孔【421-425】test;共济运动查体【527-533】test;}
-E={明显干湿性啰音【384-391】testresult;杂音【403-405】testresult;压痛【410-412】testresult;眼震【454-456】testresult;右耳听力差【457-462】testresult;明显深浅感觉障碍【508-516】testresult;双下肢病理征【517-523】testresult;异常【535-537】testresult;}
-E={共济运动查体【527-533】test;}||R=TeRS||E={异常【535-537】testresult;}
-E={抗血小板治疗【587-593】treatment;调脂【595-597】treatment;稳定斑块【599-603】treatment;}
