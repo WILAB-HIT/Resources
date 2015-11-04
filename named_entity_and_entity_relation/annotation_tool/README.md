@@ -26,6 +26,11 @@
 
 **Requirements:**
 
+<<<<<<< HEAD
 1. Java environment
 2. Windows system
+=======
+
+- Java environment
+>>>>>>> origin/master
 
