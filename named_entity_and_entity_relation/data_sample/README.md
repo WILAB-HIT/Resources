@@ -2,7 +2,7 @@
 
 ---
 
-- 10 discharge summaries, 10 progress notes
+- 5 discharge summaries, 5 progress notes (the private information has been replaced)
 - xml file is the text of CEMR
 - ent file is for entity information
 - rel file is for entity relation information
