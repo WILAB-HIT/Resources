@@ -22,13 +22,13 @@ T: entity type
 A: assertion type
 
 
-> C=肺腺癌(lung adenocarcinoma) P=63:66 T=disease A=absent
+> C=肺腺癌(lung adenocarcinoma) P=63:66 T=disease A=possible
 > 
-C=右侧胸腔积液(right pleural effusion) P=67:73 T=disease A=absent
+C=右侧胸腔积液(right pleural effusion) P=67:73 T=disease A=possible
 > 
-C=肺腺癌(lung adenocarcinoma) P=97:100 T=disease A=absent
+C=肺腺癌(lung adenocarcinoma) P=97:100 T=disease A=possible
 > 
-C=右侧胸腔积液(right pleural effusion) P=101:107 T=disease A=absent
+C=右侧胸腔积液(right pleural effusion) P=101:107 T=disease A=possible
 > 
 C=肺腺癌(lung adenocarcinoma) P=131:134 T=disease A=present
 > 
