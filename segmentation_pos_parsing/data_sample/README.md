@@ -14,6 +14,8 @@
 
 **parsing tree:**
 
+![image](https://github.com/WILAB-HIT/Resources/blob/master/segmentation_pos_parsing/data_sample/1example.tif)
+
 
 
 
