@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discharge>
+<患者信息>
+(FRAG (IP (NP (NN 性别))(PU :)(VP (NP (NN 男))))(IP (NP (NN 年龄))(PU :)(VP (QP (CD 63)(CLP (M 岁)))))(IP (NP (NN 入院)(NN 科别))(PU :)(VP (NP (NP (NN 神经内科))(NP (QP (OD 四))(NP (NN 病房)))))))
+</患者信息>
+<住院起止日>
+(FRAG (IP (NP (NN 入院)(NN 日期))(PU :)(VP (NP (NT 2012-08-14)(NT 18:47))))(IP (NP (NN 出院)(NN 日期))(PU :)(VP (NP (NT 2012年)(NT 08月)(NT 25日))))(IP (NP (NN 住院))(PU :)(VP (QP (CD 11)(CLP (M 天))))))
+</住院起止日>
+<门诊收治诊断>
+(FRAG (NP (NN 脑梗死))(PU .))
+</门诊收治诊断>
+<临床初步诊断>
+(FRAG (NP (NN 脑梗死)))
+</临床初步诊断>
+<临床确定诊断>
+(FRAG (NP (NN 脑梗死))(PU ，)(NP (NN 贫血)))
+</临床确定诊断>
+<入院时情况>
+(IP (IP (VP (VV 头晕)))(PU ，)(IP (NP (NN 血压))(VP (QP (CD 160)(PU /)(CD l00)(CLP (M mmHg)))))(PU ，)(IP (NP (NN 神志))(VP (VA 清楚)))(PU ，)(IP (NP (NN 贫血))(VP (VV 外观)))(PU ，)(IP (NP (NN 构音))(VP (VV 障碍)))(PU ，)(IP (NP (QP (CD 双)(CLP (M 侧)))(NP (NN 瞳孔)))(VP (VP (VV 等)(VP (VA 大)))(VP (VV 同)(NP (NN 圆)))))(PU ，)(IP (VP (QP (ADVP (AD 约))(QP (CD 3.0)(CLP (M mm))))))(PU ，)(IP (NP (NN 对光)(NN 反射))(VP (VV 存在)))(PU ，)(IP (NP (QP (CD 双)(CLP (M 侧)))(NP (NN 眼球)))(VP (VV 运动)(VP (VA 自如))))(PU ，)(IP (NP (NN 水平)(NN 眼震))(VP (PU -LRB-)(VA -)(PU -RRB-)))(PU ，)(IP (VP (VV 粗测)(IP (NP (NN 视力))(VP (VA 正常)))))(PU ，)(IP (NP (NN 嗅觉))(VP (VA 正常)))(PU ，)(IP (NP (NP (QP (CD 双))(NP (NN 耳)))(NP (NN 听力)))(VP (VA 正常)))(PU ，)(IP (VP (VP (VV 伸)(NP (NN 舌)))(VP (LC 右)(VP (VV 偏)))))(PU ，)(IP (VP (VP (VP (VV 转)(NP (NN 头)))(VP (VV 转)(NP (NN 颈))))(VP (VV 活动)(VP (VA 自如)))))(PU ，)(IP (NP (NP (NN 四肢))(NP (NN 肌力)(PU 、)(NN 肌张力)))(VP (VA 正常)))(PU ，)(IP (NP (NP (NN 左侧))(NP (NN 腱反射)))(VP (VA 对称)(VA 活跃)))(PU ，)(IP (VP (VE 无)(NP (ADJP (JJ 明显))(IP (NP (NN 深浅)(NN 感觉))(VP (VV 障碍))))))(PU ，)(IP (NP (NP (ADJP (JJ 左))(ADJP (JJ 下))(NP (NN 肢)))(NP (NN 病理征)))(VP (NP (NN 阳性))))(PU ，)(IP (NP (NN 共济运动)(NN 查体))(VP (ADVP (AD 未))(VP (VV 见)(NP (NN 异常)))))(PU .))
+</入院时情况>
+<治疗经过>
+(IP (IP (VP (VV 完善)(NP (ADJP (JJ 相关))(NP (NN 化验)(NN 检查)))))(PU ，)(IP (VP (VV 改善)(NP (NN 脑代谢)(PU ，)(NN 脑保护))))(PU ，)(IP (VP (VP (VV 支持))(VP (VV 对症))))(PU ，)(IP (VP (ADVP (AD 密切))(VP (VV 观察)(NP (NN 病情)))))(PU ，)(IP (VP (VSB (VV 输血)(VV 治疗))(NP (NN 贫血))))(PU .))
+(IP (IP (NP (NN 住院)(NN 期间))(VP (VV 建议)(IP (NP (NN 胃肠镜)(NN 检查)))))(PU ，)(IP (NP (NN 消化科))(VP (VV 考虑)(NP (NP (NT 目前))(IP (NP (NN 胃镜)(NN 风险))(VP (VA 大))))))(PU ，)(IP (VP (ADVP (AD 未))(VP (VV 予)(NP (NN 执行)))))(PU ，)(IP (VP (VV 建议)(IP (VP (ADVP (AD 择期))(VP (VV 查)(NP (NN 胃肠道)))))))(PU .))
+</治疗经过>
+<出院时情况>
+(IP (IP (NP (NN 患者)(NN 头晕))(VP (VV 有所)(NP (NN 好转))))(PU ，)(IP (VP (VE 无)(NP (NP (NN 头痛)(PU 、)(NN 恶心))(NP (NN 症状)))))(PU ，)(IP (NP (NN 贫血))(VP (ADVP (AD 明显))(VP (VV 改善))))(PU ，)(IP (NP (NN 精神)(NN 状态))(VP (ADVP (AD 较))(VP (VA 好))))(PU .))
+(IP (NP (NN 查体))(PU :)(IP (IP (NP (NN 血压))(VP (QP (CD 115)(PU /)(CD 80)(CLP (M mmHg)))))(PU ，)(IP (NP (NN 神志))(VP (VA 清楚)))(PU ，)(NP (ADJP (JJ 轻度))(NP (NN 贫血)(NN 外观)))(PU ，)(IP (NP (NN 构音))(VP (VV 障碍)))(PU ，)(IP (NP (QP (CD 双)(CLP (M 侧)))(NP (NN 瞳孔)))(VP (VP (VV 等)(VP (VA 大)))(VP (VV 同)(NP (NN 圆)))))(PU ，)(IP (VP (QP (ADVP (AD 约))(QP (CD 3.0)(CLP (M mm))))))(PU ，)(IP (NP (ADJP (JJ 直接)(PU 、)(JJ 间接))(NP (NN 对光)(NN 反射)))(VP (VV 存在))))(PU .))
+(IP (IP (NP (QP (CD 双)(CLP (M 侧)))(NP (NN 眼球)))(VP (VV 运动)(VP (VA 自如))))(PU ，)(IP (VP (ADVP (AD 未))(VP (VV 见)(NP (NN 眼震)))))(PU ，)(IP (VP (VV 粗测)(IP (NP (NN 视力))(VP (VA 正常)))))(PU ，)(IP (NP (NN 嗅觉))(VP (VA 正常)))(PU ，)(IP (NP (NP (QP (CD 双))(NP (NN 耳)))(NP (NN 听力)))(VP (VA 正常)))(PU ，)(IP (VP (VP (VV 伸)(NP (NN 舌)))(VP (VV 居中))))(PU .))
+(IP (IP (VP (VP (VP (VV 转)(NP (NN 头)))(VP (VV 转)(NP (NN 颈))))(VP (VV 活动)(VP (VA 自如)))))(PU ，)(IP (NP (NP (QP (CD 双))(NP (ADJP (JJ 下))(NP (NN 肢))))(NP (NN 肌力)))(VP (VA 正常)))(PU ，)(IP (NP (NP (ADJP (JJ 上))(NP (NN 肢)))(NP (NN 远端)(NN 肌力)))(VP (ADVP (AD 稍))(VP (VA 差))))(PU ，)(IP (NP (NN 四肢)(NN 肌张力))(VP (VA 正常)))(PU .))
+(IP (IP (VP (VE 无)(NP (ADJP (JJ 明显))(IP (NP (NP (NN 深)(PU 、)(NN 浅))(NP (NN 感觉)))(VP (VV 障碍))))))(PU ，)(IP (NP (NP (ADJP (JJ 右))(ADJP (JJ 下))(NP (NN 肢)))(NP (NN 巴宾斯基征)))(VP (NP (NN 阳性))))(PU ，)(IP (NP (NN 左侧)(NN 病理征))(VP (ADVP (AD 未))(VP (VV 引出))))(PU ，)(IP (NP (NN 共济运动)(NN 查体))(VP (ADVP (AD 未))(VP (VV 见)(NP (NN 异常)))))(PU .))
+</出院时情况>
+<治疗效果>
+(FRAG (NP (NN 好转)))
+</治疗效果>
+<出院医嘱>
+(IP (LST (CD 1))(PU 、)(IP (IP (VP (ADVP (AD 择期))(VP (VV 行)(NP (NN 胃肠镜)(NN 检查)))))(PU ，)(IP (VP (VV 查明)(NP (NN 贫血)(NN 原因))))(PU ，)(IP (VP (VV 继续)(VP (VP (VV 巩固))(VP (VV 治疗)))))(PU ，)(IP (NP (NN 消化科))(VP (VV 随诊)))))
+(IP (LST (CD 2))(PU 、)(VP (ADVP (AD 定期))(VP (VV 监测)(NP (NN 血常规)))))
+(IP (LST (CD 3))(PU 、)(VP (ADVP (AD 定期))(VP (VV 复查)))(PU .))
+</出院医嘱>
+</discharge>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discharge>
+<患者信息>
+(FRAG (IP (NP (NN 性别))(PU :)(VP (NP (NN 男))))(IP (NP (NN 年龄))(PU :)(VP (QP (CD 76)(CLP (M 岁)))))(IP (NP (NN 入院)(NN 科别))(PU :)(VP (NP (NP (NN 神经内科))(NP (QP (OD 四))(NP (NN 病房)))))))
+</患者信息>
+<住院起止日>
+(FRAG (IP (NP (NN 入院)(NN 日期))(PU :)(VP (NP (NT 2012-09-19)(NT 14:38))))(IP (NP (NN 出院)(NN 日期))(PU :)(VP (NP (NT 2012年)(NT 09月)(NT 28日))))(IP (NP (NN 住院))(PU :)(VP (QP (CD 9)(CLP (M 天))))))
+</住院起止日>
+<门诊收治诊断>
+(FRAG (NP (NN 脑梗死))(PU 、)(NP (NN 糖尿病)))
+</门诊收治诊断>
+<临床初步诊断>
+(FRAG (NP (NN 脑梗死))(PU 、)(NP (NN 糖尿病)))
+</临床初步诊断>
+<临床确定诊断>
+(FRAG (NP (NN 脑梗死))(PU 、)(NP (NN 糖尿病)))
+</临床确定诊断>
+<入院时情况>
+(IP (IP (NP (NN 患者))(VP (PP (P 主因)(IP (PU ")(IP (IP (NP (NN 语))(VP (VA 笨)))(VP (VV 伴)(IP (NP (NN 口角))(VP (VV 流涎)))))(PU 、)(VP (VSB (VV 饮水)(VV 呛咳))(QP (CD 7)(CLP (M 日))))(PU ，)(VP (VV 加重)(QP (CD 1)(CLP (M 日))))(PU ")))(VP (VV 入院))))(PU ，)(IP (NP (NN 查体))(PU :)(IP (IP (NP (NN 血压))(VP (QP (CD l55)(PU /)(CD 90)(CLP (M mmHg)))))(PU ，)(IP (NP (NN 神志))(VP (VA 清楚)))(PU ，)(IP (NP (NN 构音))(VP (VV 障碍)))(PU ，)(IP (NP (QP (CD 双)(CLP (M 侧)))(NP (NN 瞳孔)))(VP (VP (VCD (VV 等大)(VV 同圆)))(PU ，)(VP (QP (ADVP (AD 约))(QP (CD 3.0)(CLP (M mm)))))(PU ，)(IP (NP (NN 对光)(NN 反射))(VP (VV 存在)))))(PU ，)(IP (NP (QP (CD 双)(CLP (M 侧)))(NP (NN 眼球)))(VP (IP (NP (DP (DT 各))(NP (NN 向))(NP (NN 运动)))(VP (VA 自如)))(PU ，)(VP (VE 无)(NP (NN 眼震)(CC 及)(NN 复视)))))(PU ，)(IP (NP (NP (QP (CD 双))(NP (NN 耳)))(NP (NN 听力)))(VP (VA 正常)))(PU ，)(IP (VP (VCD (VP (VV 伸)(NP (NN 舌)))(VP (VV 示)(NP (NN 齿))))(VP (VP (VV 居中))(VP (VA 对称)))))(PU ，)(IP (VP (VCD (VP (VV 转)(NP (NN 头)))(VP (VV 转)(NP (NN 颈))))(VP (VP (VV 活动))(VP (VA 自如)))))(PU ，)(IP (NP (NP (ADJP (JJ 右))(ADJP (JJ 下))(NP (NN 肢)))(NP (NN 肌力)))(VP (QP (CD 5))(VA -)(CLP (M 级))))(PU ，)(IP (NP (ADJP (JJ 左侧))(NP (NN 肢体)(NN 肌力)))(VP (VA 正常)))(PU ，)(IP (NP (NN 四肢)(NN 肌张力))(VP (VA 正常)))(PU ，)(IP (NP (NP (QP (CD 双))(NP (NN 侧)))(NP (NN 腱反射)))(VP (VP (VV 存在))(VP (VA 对称))))(PU ，)(IP (NP (NP (ADJP (JJ 右))(ADJP (JJ 下))(NP (NN 肢)))(NP (NN 病理征)))(VP (NP (NN 阳性))))(PU ，)(IP (NP (NP (NN 共济)(NN 运动))(CC 及)(NP (NN 感觉)(NN 查体)))(VP (ADVP (AD 未))(VP (VV 见)(NP (NN 异常)))))))(PU .))
+</入院时情况>
+<治疗经过>
+(IP (LST (CD 1))(PU 、)(VP (VV 防止)(IP (NP (NN 疾病))(VP (VV 进展)))))
+(IP (LST (CD 2))(PU 、)(VP (VV 保护)(NP (NN 脑组织))))
+(IP (LST (CD 3))(PU 、)(VP (VV 改善)(NP (NN 脑循环))))
+(IP (LST (CD 4))(PU 、)(VP (VV 对症)))
+</治疗经过>
+<出院时情况>
+(IP (IP (NP (NP (NN 患者))(NP (IP (NP (NN 语))(VP (VA 笨)))(NP (NN 症状))))(VP (VV 有所)(NP (NN 好转))))(PU ，)(IP (NP (NN 查体))(PU :)(IP (IP (NP (NN 血压))(VP (QP (CD l55)(PU /)(CD 90)(CLP (M mmHg)))))(PU ，)(IP (NP (NN 神志))(VP (VA 清楚)))(PU ，)(IP (NP (NN 构音)(NN 障碍))(VP (VV 好转)))(PU ，)(IP (NP (QP (CD 双)(CLP (M 侧)))(NP (NN 瞳孔)))(VP (VP (VCD (VV 等大)(VV 同圆)))(PU ，)(VP (QP (ADVP (AD 约))(QP (CD 3.0)(CLP (M mm)))))(PU ，)(IP (NP (NN 对光)(NN 反射))(VP (VV 存在)))))(PU ，)(IP (NP (QP (CD 双)(CLP (M 侧)))(NP (NN 眼球)))(VP (IP (NP (DP (DT 各))(NP (NN 向))(NP (NN 运动)))(VP (VA 自如)))(PU ，)(VP (VE 无)(NP (NN 眼震)(CC 及)(NN 复视)))))(PU ，)(IP (NP (NP (QP (CD 双))(NP (NN 耳)))(NP (NN 听力)))(VP (VA 正常)))(PU ，)(IP (VP (VCD (VP (VV 伸)(NP (NN 舌)))(VP (VV 示)(NP (NN 齿))))(VP (VP (VV 居中))(VP (VA 对称)))))(PU ，)(IP (VP (VCD (VP (VV 转)(NP (NN 头)))(VP (VV 转)(NP (NN 颈))))(VP (VP (VV 活动))(VP (VA 自如)))))(PU ，)(IP (NP (NP (ADJP (JJ 右))(ADJP (JJ 下))(NP (NN 肢)))(NP (NN 肌力)))(VP (QP (CD 5))(VA -)(CLP (M 级))))(PU ，)(IP (NP (ADJP (JJ 左侧))(NP (NN 肢体)(NN 肌力)))(VP (VA 正常)))(PU ，)(IP (NP (NN 四肢)(NN 肌张力))(VP (VA 正常)))(PU ，)(IP (NP (NP (QP (CD 双))(NP (NN 侧)))(NP (NN 腱反射)))(VP (VP (VV 存在))(VP (VA 对称))))(PU ，)(IP (NP (NP (ADJP (JJ 右))(ADJP (JJ 下))(NP (NN 肢)))(NP (NN 病理征)))(VP (NP (NN 阳性))))(PU ，)(IP (NP (NP (NN 共济)(NN 运动))(CC 及)(NP (NN 感觉)(NN 查体)))(VP (ADVP (AD 未))(VP (VV 见)(NP (NN 异常)))))))(PU .))
+</出院时情况>
+<治疗效果>
+(FRAG (NP (NN 好转)))
+</治疗效果>
+<出院医嘱>
+(IP (LST (CD 1))(PU 、)(VP (VV 继续)(VP (VP (VV 口服)(NP (NN 药物)))(VP (VV 治疗)))))
+(IP (LST (CD 2))(PU 、)(NP (NP (NP (ADJP (JJ 低))(NP (NN 盐)))(NP (ADJP (JJ 低))(NP (NN 脂))))(NP (NN 饮食))))
+(IP (LST (CD 3))(PU 、)(VP (VV 随诊)))
+</出院医嘱>
+</discharge>

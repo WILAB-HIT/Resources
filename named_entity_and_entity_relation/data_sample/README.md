@@ -11,7 +11,7 @@
 
 
 
-**Details of the entity information in the file "106H913531discharge.xml.ent"**
+**Details of the entity information in the file "discharge1.xml.ent"**
 
 C: entity
 

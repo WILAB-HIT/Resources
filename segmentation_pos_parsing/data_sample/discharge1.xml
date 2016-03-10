@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discharge>
+<患者信息>
+(FRAG (IP (NP (NN 性别))(PU :)(NP (NN 男)))(IP (NP (NN 年龄))(PU :)(VP (QP (CD 82)(CLP (M 岁)))))(IP (NP (NN 入院)(NN 科别))(PU :)(VP (NP (NP (NN 神经内科))(NP (QP (OD 一))(NP (NN 病房)))))))
+</患者信息>
+<住院起止日>
+(FRAG (IP (NP (NN 入院)(NN 日期))(PU :)(VP (NP (NT 2012-04-24)(NT 14:29))))(IP (NP (NN 出院)(NN 日期))(PU :)(VP (NP (NT 2012年)(NT 05月)(NT 07日))))(IP (NP (NN 住院))(PU :)(VP (QP (CD 14)(CLP (M 天))))))
+</住院起止日>
+<门诊收治诊断>
+(FRAG (NP (NN 脑梗死)(NN 高血压病)))
+</门诊收治诊断>
+<临床初步诊断>
+(FRAG (NP (NN 脑梗死)(NN 高血压病)))
+</临床初步诊断>
+<临床确定诊断>
+(IP (NP (NN 脑梗死))(NP (NN 高血压病))(IP (NP (NN 脂质))(VP (NP (ADJP (JJ 异常))(NP (NN 血症)))))(IP (NP (QP (CD 双))(NP (NN 眼)))(VP (NP (NN 白内障))))(IP (NP (NP (ADJP (JJ 右))(NP (NN 眼)))(NP (NN 黄斑)))(VP (VV 变性))))
+</临床确定诊断>
+<入院时情况>
+(IP (IP (NP (NN 血压))(VP (QP (CD 130)(PU /)(CD 80)(CLP (M mmHg)))))(PU ，)(IP (NP (NN 神))(VP (VA 清)))(PU ，)(IP (NP (NN 语))(VP (VA 明)))(PU ，)(IP (NP (NP (QP (CD 双))(NP (NN 耳)))(NP (NN 听力)))(VP (VV 下降)))(PU ，)(IP (NP (NN 反应))(VP (VA 迟钝)))(PU ，)(IP (NP (QP (CD 双))(NP (NN 瞳)))(VP (VP (VV 等)(VP (VA 大)))(VP (VV 同)(NP (NN 圆)))))(PU ，)(IP (NP (NN 对光)(NN 反射))(VP (VV 存在)))(PU ，)(IP (NP (NP (QP (CD 双))(NP (NN 眼)))(NP (DP (DT 各))(NP (NN 向))))(VP (VV 运动)(VP (ADVP (AD 不))(VP (VV 合作)))))(PU ，)(IP (VP (VP (VP (VV 伸)(NP (NN 舌)))(VP (VV 示)(NP (NN 齿))))(VP (ADVP (AD 未))(VP (VV 见)(NP (ADJP (JJ 明显))(NP (NN 异常)))))))(PU .))
+(IP (IP (NP (NP (ADJP (JJ 左))(ADJP (JJ 下))(NP (NN 肢)))(NP (NN 肌力)))(VP (QP (OD 4))(VA +)(CLP (M 级))))(PU ，)(IP (NP (NP (ADJP (JJ 右))(ADJP (JJ 下))(NP (NN 肢)))(NP (NN 肌力)))(VP (QP (OD 3)(CLP (M 级)))))(PU ，)(IP (NP (NP (QP (CD 双))(NP (ADJP (JJ 上))(NP (NN 肢))))(NP (NN 肌力)))(VP (QP (OD 5)(CLP (M 级)))))(PU ，)(IP (NP (NN 肌张力))(VP (ADVP (AD 尚))(VP (VA 可))))(PU ，)(IP (NP (NN 腱反射))(VP (VA 对称)))(PU ，)(IP (NP (NP (NP (ADJP (JJ 左))(NP (NN 颜面)))(CC 及)(NP (ADJP (JJ 左侧))(NP (NN 偏身))))(NP (NN 痛觉)))(VP (VV 减退)))(PU ，)(IP (NP (NP (QP (CD 双))(NP (NN 侧)))(NP (NN chaddock征)))(VP (NP (NN 阳性))))(PU .))
+</入院时情况>
+<治疗经过>
+(IP (IP (VP (VV 防止)(IP (NP (NN 病情))(VP (VV 进展)))))(PU ，)(IP (VP (VP (VV 改善)(NP (NN 循环)))(PU 、)(VP (VV 改善)(NP (NN 代谢)))(PU 、)(VP (VV 请)(NP (ADJP (JJ 相关))(NP (NN 科室)))(VP (VV 会诊))))))
+</治疗经过>
+<出院时情况>
+(IP (IP (NP (NN 神))(VP (VA 清)))(PU ，)(IP (NP (NN 语))(VP (VA 明)))(PU ，)(IP (NP (NP (QP (CD 双))(NP (NN 耳)))(NP (NN 听力)))(VP (VV 下降)))(PU ，)(IP (NP (NN 反应))(VP (ADVP (AD 略))(VP (VA 迟钝))))(PU ，)(IP (VP (VP (VP (VV 伸)(NP (NN 舌)))(VP (VV 示)(NP (NN 齿))))(VP (ADVP (AD 未))(VP (VV 见)(NP (ADJP (JJ 明显))(NP (NN 异常)))))))(PU .))
+(IP (IP (NP (NP (ADJP (JJ 左))(ADJP (JJ 下))(NP (NN 肢)))(NP (NN 肌力)))(VP (QP (OD 4))(VA +)(CLP (M 级))))(PU ，)(IP (NP (NP (ADJP (JJ 右))(ADJP (JJ 下))(NP (NN 肢)))(NP (NN 肌力)))(VP (QP (OD 4)(CLP (M 级)))))(PU ，)(IP (NP (NP (QP (CD 双))(NP (ADJP (JJ 上))(NP (NN 肢))))(NP (NN 肌力)))(VP (QP (OD 5)(CLP (M 级)))))(PU ，)(IP (NP (NN 肌张力))(VP (ADVP (AD 尚))(VP (VA 可))))(PU ，)(IP (NP (NN 腱反射))(VP (VA 对称)))(PU ，)(IP (NP (NP (NP (ADJP (JJ 左))(NP (NN 颜面)))(CC 及)(NP (ADJP (JJ 左侧))(NP (NN 偏身))))(NP (NN 痛觉)))(VP (VV 减退)))(PU ，)(IP (NP (NP (QP (CD 双))(NP (NN 侧)))(NP (NN chaddock征)))(VP (NP (NN 阳性))))(PU .))
+</出院时情况>
+<治疗效果>
+(FRAG (NP (NN 好转)))
+</治疗效果>
+<出院医嘱>
+(IP (VP (VV 继续)(IP (NP (NN 药物))(VP (VV 治疗))))(VP (PP (P 于)(NP (NN 眼科)))(VP (ADVP (AD 进一步))(VP (VV 诊治)))))
+</出院医嘱>
+</discharge>
