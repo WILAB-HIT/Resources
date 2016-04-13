@@ -1,7 +1,7 @@
 E={肺腺癌【63-66】disease;右侧胸腔积液【67-73】disease;}
 E={肺腺癌【97-100】disease;右侧胸腔积液【101-107】disease;}
 E={肺腺癌【131-134】disease;右侧胸腔积液【135-141】disease;}
-E={肺腺癌【183-186】disease;}||R=DIS||E={胸痛【172-174】complaintsymptom;胸闷【175-177】complaintsymptom;}
+E={肺腺癌【183-186】disease;}||R=SID||E={胸痛【172-174】complaintsymptom;胸闷【175-177】complaintsymptom;}
 E={颈静脉怒张【220-225】testresult;右肺呼吸音弱【226-232】testresult;干湿啰音【245-249】testresult;病理性杂音【270-275】testresult;压痛【287-289】testresult;反跳痛【290-293】testresult;肌紧张【294-297】testresult;移动性浊音【305-310】testresult;浮肿【315-317】testresult;}
 E={保肝【363-365】treatment;对症【367-369】treatment;支持治疗【371-375】treatment;}
 E={颈静脉怒张【439-444】testresult;右肺呼吸音弱【445-451】testresult;干湿啰音【455-459】testresult;病理性杂音【471-476】testresult;压痛【488-490】testresult;反跳痛【491-494】testresult;肌紧张【495-498】testresult;移动性浊音【506-511】testresult;浮肿【516-518】testresult;}

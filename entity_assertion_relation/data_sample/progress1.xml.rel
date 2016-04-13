@@ -4,10 +4,8 @@ E={颈CT【143-146】test;}||R=TeRS||E={右颈软组织肿物【148-155】testre
 E={全喉切除【233-237】treatment;左颈部廓清术【239-245】treatment;}||R=TrAS||E={左颈淋巴结肿大【191-198】complaintsymptom;咳嗽【200-202】complaintsymptom;咳痰【204-206】complaintsymptom;饮食呛咳【209-213】complaintsymptom;胸闷【216-218】complaintsymptom;腹痛【221-223】complaintsymptom;腹泻【225-227】complaintsymptom;}
 E={术后病理【247-251】test;}||R=TeRD||E={左侧喉咽中低分化鳞状细胞癌【253-266】disease;}
 E={术后病理【247-251】test;}||R=TeRS||E={(左颈廓清) 淋巴绐转移1/30【273-289】testresult;}
-E={左侧喉咽中低分化鳞状细胞癌【253-266】disease;}||R=DIS||E={颈部包块【122-126】complaintsymptom;声嘶【136-138】complaintsymptom;气喘【139-141】complaintsymptom;}
-E={左侧喉咽中低分化鳞状细胞癌【253-266】disease;}||R=DIS||E={右颈软组织肿物【148-155】testresult;喉腔受压【157-161】testresult;舌骨骨质受累破坏【169-177】testresult;}
-E={左侧喉咽中低分化鳞状细胞癌【253-266】disease;}||R=DIS||E={左颈淋巴结肿大【191-198】complaintsymptom;咳嗽【200-202】complaintsymptom;咳痰【204-206】complaintsymptom;饮食呛咳【209-213】complaintsymptom;胸闷【216-218】complaintsymptom;腹痛【221-223】complaintsymptom;腹泻【225-227】complaintsymptom;}
-E={左侧喉咽中低分化鳞状细胞癌【253-266】disease;}||R=DIS||E={(左颈廓清) 淋巴绐转移1/30【273-289】testresult;}
+E={左侧喉咽中低分化鳞状细胞癌【253-266】disease;}||R=SID||E={左颈淋巴结肿大【191-198】complaintsymptom;咳嗽【200-202】complaintsymptom;咳痰【204-206】complaintsymptom;饮食呛咳【209-213】complaintsymptom;胸闷【216-218】complaintsymptom;腹痛【221-223】complaintsymptom;腹泻【225-227】complaintsymptom;}
+E={左侧喉咽中低分化鳞状细胞癌【253-266】disease;}||R=DCS||E={(左颈廓清) 淋巴绐转移1/30【273-289】testresult;}
 E={TDF/CF方案化疗【296-306】treatment;}||R=TrAD||E={左侧喉咽中低分化鳞状细胞癌【253-266】disease;}
 E={TDF/CF方案化疗【296-306】treatment;}||R=TrAS||E={(左颈廓清) 淋巴绐转移1/30【273-289】testresult;}
 E={TDF/CF方案化疗【296-306】treatment;}||R=TrCS||E={化疗反应【311-315】complaintsymptom;}

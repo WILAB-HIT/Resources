@@ -1,7 +1,7 @@
 E={食道癌【63-66】disease;腹腔淋巴结转移【67-74】disease;}
 E={食道癌【98-101】disease;腹腔淋巴结转移【102-109】disease;}
 E={食道癌【133-136】disease;腹腔淋巴结转移【137-144】disease;}
-E={食道癌【181-184】disease;}||R=DIS||E={上腹胀痛【172-176】complaintsymptom;}
+E={食道癌【181-184】disease;}||R=SID||E={上腹胀痛【172-176】complaintsymptom;}
 E={T【193-194】test;P【201-202】test;R【209-210】test;BP【217-219】test;心率【276-278】test;}
 E={黄染【243-245】testresult;肿大【254-256】testresult;干湿啰音【267-271】testresult;病理性杂音【291-296】testresult;手术瘢痕【309-313】testresult;压痛【317-319】testresult;反跳痛【320-323】testresult;肌紧张【324-327】testresult;移动性浊音【334-339】testresult;浮肿【346-348】testresult;病理反射【356-360】testresult;}
 E={对症【392-394】treatment;支持治疗【394-398】treatment;}

@@ -1,10 +1,8 @@
 E={高血压【65-68】disease;糖尿病史【70-74】disease;肝炎【78-80】disease;结核病史【81-85】disease;}
 E={左颈部肿物【120-125】complaintsymptom;明显疼痛【143-147】complaintsymptom;}
+E={肿物【157-159】complaintsymptom;压痛【186-188】complaintsymptom;}
 E={肿物直径【167-171】test;}||R=TeAS||E={肿物【157-159】complaintsymptom;}
-E={经皮肿物穿剌活检【208-216】test;病理【218-220】test;}||R=TeAS||E={肿物【157-159】complaintsymptom;压痛【186-188】complaintsymptom;}
 E={经皮肿物穿剌活检【208-216】test;病理【218-220】test;}||R=TeRD||E={转移癌【231-234】disease;鳞状细胞癌【236-241】disease;}
-E={转移癌【231-234】disease;鳞状细胞癌【236-241】disease;}||R=DIS||E={肿物【157-159】complaintsymptom;压痛【186-188】complaintsymptom;}
-E={转移癌【231-234】disease;鳞状细胞癌【236-241】disease;}||R=DIS||E={明显减轻【278-282】testresult;}
 E={体温【298-300】test;脉搏【309-311】test;}
 E={呼吸【320-322】test;BP【331-333】test;}
 E={黄染【378-380】testresult;肿大的淋巴结【388-394】testresult;压痛【412-414】testresult;颈静脉怒张【427-432】testresult;干湿啰音【451-455】testresult;病理性杂音【477-482】testresult;手术瘢痕【498-502】testresult;压痛【507-509】testresult;反跳痛【510-513】testresult;肌紧张【514-517】testresult;移动性浊音【527-532】testresult;浮肿【540-542】testresult;病理反射【551-555】testresult;}
