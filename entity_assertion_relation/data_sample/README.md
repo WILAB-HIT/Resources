@@ -92,5 +92,25 @@ C=血常规(blood routine examination) P=567:570 T=test
 > 
 C=加强护理(intensive care) P=577:581 T=treatment A=present
 
+**Details of the entity relation information in the file "discharge1.xml.rel"**
 
+E: entity group
 
+R: relation type
+
+>
+E={肺腺癌(lung adenocarcinoma)【63-66】disease;右侧胸腔积液(right pleural effusion)【67-73】disease;}
+>
+E={肺腺癌(lung adenocarcinoma)【97-100】disease;右侧胸腔积液(right pleural effusion)【101-107】disease;}
+>
+E={肺腺癌(lung adenocarcinoma)【131-134】disease;右侧胸腔积液(right pleural effusion)【135-141】disease;}
+>
+E={肺腺癌(lung adenocarcinoma)【183-186】disease;}||R=SID||E={胸痛(chest pain)【172-174】complaintsymptom;胸闷(chest distress)【175-177】complaintsymptom;}
+>
+E={颈静脉怒张(distention of jugular vein)【220-225】testresult;右肺呼吸音弱(Right lung breath sounds weak)【226-232】testresult;干湿啰音(dry wet rale)【245-249】testresult;病理性杂音(pathologic murmur)【270-275】testresult;压痛(pressing pain)【287-289】testresult;反跳痛(rebound tenderness)【290-293】testresult;肌紧张(muscular tension)【294-297】testresult;移动性浊音(shifting dullness)【305-310】testresult;浮肿(dropsy)【315-317】testresult;}
+>
+E={保肝(liver protection)【363-365】treatment;对症(symptomatic)【367-369】treatment;支持治疗(supportive treatment)【371-375】treatment;}
+>
+E={颈静脉怒张(distention of jugular vein)【439-444】testresult;右肺呼吸音弱(Right lung breath sounds weak)【445-451】testresult;干湿啰音(dry wet rale)【455-459】testresult;病理性杂音(pathologic murmur)【471-476】testresult;压痛(pressing pain)【488-490】testresult;反跳痛(rebound tenderness)【491-494】testresult;肌紧张(muscular tension)【495-498】testresult;移动性浊音(shifting dullness)【506-511】testresult;浮肿(dropsy)【516-518】testresult;}
+
+PS: the contents in the round brackets above are not included in the annotations.
