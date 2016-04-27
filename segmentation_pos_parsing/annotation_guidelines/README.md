@@ -1,5 +1,5 @@
 # Annotation Guidelines#
 ---
-- **Seg.pdf** *Annotation Guidelines for word segmentation on Chinese Electronic Medical Records*
-- **POS.pdf** *Annotation Guidelines for part-of-speech tagging on Chinese Electronic Medical Records*
-- **Bracketing.pdf** *Annotation Guidelines for bracketing on Chinese Electronic Medical Records*
+- **Seg.pdf** *Annotation Guidelines for Word Segmentation on Chinese Electronic Medical Records*
+- **POS.pdf** *Annotation Guidelines for Part-of-speech Tagging on Chinese Electronic Medical Records*
+- **Bracketing.pdf** *Annotation Guidelines for Bracketing on Chinese Electronic Medical Records*
