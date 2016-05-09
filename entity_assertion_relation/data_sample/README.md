@@ -3,15 +3,15 @@
 ---
 
 - 5 discharge summaries, 5 progress notes (the private information has been replaced)
-- xml file is the text of CEMR
-- ent file is for entity information
-- rel file is for entity relation information
+- xml file is the text within CEMR
+- ent file is for entity and assertion information
+- rel file is for relation information
 
 ---
 
 
 
-**Details of the entity information in the file "discharge1.xml.ent"**
+**Details of the entity and assertion information in the file "discharge1.xml.ent"**
 
 C: entity
 
@@ -92,7 +92,7 @@ C=血常规(blood routine examination) P=567:570 T=test
 > 
 C=加强护理(intensive care) P=577:581 T=treatment A=present
 
-**Details of the entity relation information in the file "discharge1.xml.rel"**
+**Details of the relation information in the file "discharge1.xml.rel"**
 
 E: entity group
 

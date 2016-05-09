@@ -1,5 +1,6 @@
 # Annotation Guidelines#
 ---
-- **Entity_Assertion_Relation.pdf** *Annotation Guidelines for Named Entities and Entity Relations on Chinese Electronic Medical Records*
-- **Entity(English Version).pdf** *English vertion of annotation Guidelines for Named Entities*
+- **Entity\_Assertion\_Relation.pdf** *The Entity-Assertion-Relation Annotation Guidelines on Chinese Clinical Texts*
+- **Entity(English Version).pdf** *English Vertion of Annotation Guidelines for Named Entities*
+
 

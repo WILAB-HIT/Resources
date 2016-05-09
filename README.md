@@ -1,9 +1,9 @@
 # RESOURCES
 
-## Resouces of Chinese Electronic Medical Records ##
+## Resouces of Clinical Texts within the Chinese Electronic Medical Record ##
 
 - WORD SEGMENTATION, POS, PARSING
-- NAMED ENTITY, ASSERTION, RELATION
+- ENTITY, ASSERTION, RELATION
 - STATEMENT OF THE ETHICS
 
 ---
