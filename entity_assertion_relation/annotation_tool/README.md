@@ -30,4 +30,8 @@ ps: the usage of "实体关系标注" is similar.
 
 Java environment
 
+![image](https://github.com/WILAB-HIT/Resources/blob/master/entity_assertion_relation/annotation_tool/entity.png)
+
+![image](https://github.com/WILAB-HIT/Resources/blob/master/entity_assertion_relation/annotation_tool/relation.png)
+
 
