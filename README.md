@@ -1,7 +1,7 @@
 # RESOURCES
 
 
-He B, Dong B, Guan Y, et al. [Building a comprehensive syntactic and semantic corpus of Chinese clinical texts](https://arxiv.org/pdf/1611.02091.pdf). 2016.
+He, Bin, Bin Dong, Yi Guan, Jinfeng Yang, Zhipeng Jiang, Qiubin Yu, Jianyi Cheng, and Chunyan Qu. 2017. [Building a Comprehensive Syntactic and Semantic Corpus of Chinese Clinical Texts](paper.pdf). Journal of Biomedical Informatics 69: 203–17. doi:10.1016/j.jbi.2017.04.006.
 
 
 ## Resouces of Clinical Texts within the Chinese Electronic Medical Record ##
@@ -13,5 +13,5 @@ He B, Dong B, Guan Y, et al. [Building a comprehensive syntactic and semantic co
 ## Demo ##
 - word segmentation, POS tagging, shallow parsing, named entity recognition, relation extraction
 - [http://wi.hit.edu.cn/cemr/](http://wi.hit.edu.cn/cemr/) 
- 
+
 ---
