@@ -14,6 +14,8 @@
 
 ps: the usage of "实体关系标注" is similar.
 
+**Note**: If you want to use the relation annotation module ("实体关系标注") , you must finish the entity annotation first ("实体标注"), i.e., you must have the "*.ent" file in the xml file path. 
+
 ---
 
 **About the columns on the bottom:**
@@ -29,6 +31,10 @@ ps: the usage of "实体关系标注" is similar.
 **Requirements:**
 
 Java environment
+
+---
+
+**Sample:**
 
 ![image](https://github.com/WILAB-HIT/Resources/blob/master/entity_assertion_relation/annotation_tool/entity.png)
 
