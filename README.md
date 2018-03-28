@@ -12,7 +12,7 @@ He, Bin, Bin Dong, Yi Guan, Jinfeng Yang, Zhipeng Jiang, Qiubin Yu, Jianyi Cheng
 
 ## Demo ##
 - word segmentation, POS tagging, shallow parsing, named entity recognition, relation extraction
-- [http://wi.hit.edu.cn/cemr/](http://wi.hit.edu.cn/cemr/) 
+- [Go to the demo](http://47.100.64.126:8018/cemr/) 
 
 ## Contact ##
-- [Bin He](https://github.com/BinHeRunning)
+- [Bin He](https://binherunning.github.io/)
