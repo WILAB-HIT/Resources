@@ -1,6 +1,6 @@
 # RESOURCES
 
-Bin He, Bin Dong, Yi Guan, Jinfeng Yang, Zhipeng Jiang, Qiubin Yu, Jianyi Cheng, and Chunyan Qu. 2017. [Building a Comprehensive Syntactic and Semantic Corpus of Chinese Clinical Texts](paper.pdf). Journal of Biomedical Informatics 69: 203–17. doi:10.1016/j.jbi.2017.04.006.
+Bin He, Bin Dong, Yi Guan, Jinfeng Yang, Zhipeng Jiang, Qiubin Yu, Jianyi Cheng, and Chunyan Qu. 2017. [Building a Comprehensive Syntactic and Semantic Corpus of Chinese Clinical Texts](https://doi.org/10.1016/j.jbi.2017.04.006). Journal of Biomedical Informatics 69: 203–17. doi:10.1016/j.jbi.2017.04.006.
 
 **Contact:** [Bin He](https://binherunning.github.io/)
 
